@@ -11,7 +11,7 @@
     "NodeJs",
     "MySQL"
   ],
-  "author": "Victor Icoma",
+  "author": "Hadrian Silva",
   "license": "MIT",
   "dependencies": {
     "bcryptjs":"^2.4.3",
