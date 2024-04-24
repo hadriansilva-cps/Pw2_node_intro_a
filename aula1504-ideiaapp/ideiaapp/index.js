@@ -13,6 +13,7 @@ app.use(express.static('public'))
 app.get('/',(req, res) => {
     res.render('layouts/main')
 })
+
 app.listen(3000, () =>{
     console.log('Servidor:http://localhost:3000/')
 })
